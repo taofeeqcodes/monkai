@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/monkai/static/css/main.20301c7e.css",
+    "main.css": "/monkai/static/css/main.7de7aca1.css",
     "main.js": "/monkai/static/js/main.8ab4c315.js",
     "static/js/453.8ab44547.chunk.js": "/monkai/static/js/453.8ab44547.chunk.js",
     "static/media/monk-removebg-preview.png": "/monkai/static/media/monk-removebg-preview.04f40b4d538fe5345dc5.png",
     "static/media/banner.jpeg": "/monkai/static/media/banner.d9c444459a5d51117ada.jpeg",
     "static/media/check-circle-2-svgrepo-com.svg": "/monkai/static/media/check-circle-2-svgrepo-com.e633a21a85c5cd14680f927ebcb86d04.svg",
     "index.html": "/monkai/index.html",
-    "main.20301c7e.css.map": "/monkai/static/css/main.20301c7e.css.map",
+    "main.7de7aca1.css.map": "/monkai/static/css/main.7de7aca1.css.map",
     "main.8ab4c315.js.map": "/monkai/static/js/main.8ab4c315.js.map",
     "453.8ab44547.chunk.js.map": "/monkai/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20301c7e.css",
+    "static/css/main.7de7aca1.css",
     "static/js/main.8ab4c315.js"
   ]
 }
